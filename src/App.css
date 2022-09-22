@@ -1,38 +1,80 @@
-.App {
-  text-align: center;
+
+.estudio1 {
+  height: 150px;
+  border-radius: 80px;
+  border: 1px solid black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.estudio2{
+  height: 150px;
+  border-radius: 80px;
+  border: 1px solid black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.estudio3{
+  height: 150px;
+  border-radius: 80px;
+  border: 1px solid black;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.pictureHeader{
+  height: 250px;
+  border-radius: 120px;
+  border: 1px solid black;
+}
+
+.pictureAboutme{
+  height: 200px;
+  border-radius: 200px;
+  border: 1px solid black;
+}
+
+.footer-image{
+  height: 20px;
+  border-radius: 50px;
+  border: 1px solid black;
+}
+
+.footer{
+  background-color:#FDF535;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: "center"
+}
+
+.experiencia{
+  height: 200px;
+  border-radius: 200px;
+  border: 1px solid black;
+}
+
+.text-center-vertical{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+   align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+.portafolio{
+  height: 200px;
+  border-radius: 200px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.landigPage{
+  background-color:#FBFDA2
+}
+
+.navbar{
+  background-color: #FDF535;
+}
+
+.color-perfil{
+  background-color: #FBFDA2;
+}
+
+.nombre{
+  font-family: 'Verdanar'
+}
+
+.text-right{
+  text-align: right;
 }
