@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.12324494.css",
+    "main.js": "/my-app/static/js/main.ec19967a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/estudio2.png": "/my-app/static/media/estudio2.496235527d4baf77441d.png",
+    "static/media/estudio1.png": "/my-app/static/media/estudio1.f2b17182ccfcdf1d7199.png",
+    "static/media/pictureHeader.png": "/my-app/static/media/pictureHeader.96223c1b2c59167c2bcc.png",
+    "static/media/estudio3.png": "/my-app/static/media/estudio3.f75c3ca8bdbc0b0dff58.png",
+    "static/media/pictureAboutme.png": "/my-app/static/media/pictureAboutme.d3a76744b8b46202b40b.png",
+    "static/media/experiencia.png": "/my-app/static/media/experiencia.6699648f4c014b2ee9fe.png",
+    "static/media/houseContacto.png": "/my-app/static/media/houseContacto.5c97c300db8c26b007a2.png",
+    "static/media/Portafolio.png": "/my-app/static/media/Portafolio.44eee0c4a6c25b0d7347.png",
+    "static/media/githubContacto.png": "/my-app/static/media/githubContacto.44eee0c4a6c25b0d7347.png",
+    "static/media/mobileContacto.png": "/my-app/static/media/mobileContacto.145d9ce0157a56f8fcd8.png",
+    "static/media/gmailContacto.png": "/my-app/static/media/gmailContacto.a2f2146f929409405da0.png",
+    "static/media/linkedinContacto.png": "/my-app/static/media/linkedinContacto.f249b38224ca41a0b909.png",
+    "index.html": "/my-app/index.html",
+    "main.12324494.css.map": "/my-app/static/css/main.12324494.css.map",
+    "main.ec19967a.js.map": "/my-app/static/js/main.ec19967a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12324494.css",
+    "static/js/main.ec19967a.js"
+  ]
+}
